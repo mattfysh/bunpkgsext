@@ -1,0 +1,11 @@
+{
+  "name": "a",
+  "version": "0.1.0",
+  "dependencies": {
+    "b": "workspace:*",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.17.13"
+  }
+}
